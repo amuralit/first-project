@@ -1,5 +1,1 @@
-First Project
-Practice project for git and git hub
-
-##Maintainer
-- Arunsankar
+New updates are coming soon, stay tuned
