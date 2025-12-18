@@ -1,1 +1,1 @@
-New updates are coming soon, stay tuned
+New updates are coming soon, stay tuned and subscribe to the repo
